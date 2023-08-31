@@ -15,6 +15,9 @@ jobs:
 
       - name: Logseq Publish
         uses: logseq/publish-spa@main
+        with:
+          output-directory: www
+          verson: 0.9.15
         
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojeklly
