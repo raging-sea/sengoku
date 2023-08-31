@@ -1,17 +1,28 @@
-on: [push]
+name:  Publish
 
-permissions:
-  contents:  write
+on: 
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+  
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
-    name: Publish Logseq graph
+    
     steps:
       - uses: actions/checkout@v3
-      - uses: logseq/publish-spa@main
+
+      - name: Logseq Publish
+        uses: logseq/publish-spa@main
+        
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojeklly
+        
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          branch: gh-pages
           folder: www
+          clean: true
+          single-commit: true
