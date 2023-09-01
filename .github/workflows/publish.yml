@@ -1,34 +1,17 @@
-name:  Publish
-
-on: 
-  push:
-    branches: [ master ]
-
-  workflow_dispatch:
+on: [push]
 
 permissions:
   contents: write
-  
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
-    
+    name: Publish Logseq graph
     steps:
       - uses: actions/checkout@v3
-
-      - name: Logseq Publish
-        uses: logseq/publish-spa@main
-        with:
-          output-directory: www
-          verson: 0.9.15
-        
-      - name: add a nojekyll file
+      - uses: logseq/publish-spa@v0.2.0
+      - name: add a nojekyll file # to make sure asset paths are correctly identified
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
-        
-      - name: Deploy
+      - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages
           folder: www
-          clean: true
-          single-commit: true
