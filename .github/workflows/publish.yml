@@ -5,6 +5,9 @@ on:
     branches: [ master ]
 
   workflow_dispatch:
+
+permissions:
+  contents: write
   
 jobs:
   build:
@@ -20,7 +23,7 @@ jobs:
           verson: 0.9.15
         
       - name: add a nojekyll file
-        run: touch $GITHUB_WORKSPACE/www/.nojeklly
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
         
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
