@@ -6,7 +6,7 @@
 		- [[Darkness Falls]]
 		  DEADLINE: <2022-07-08 Thu>
 		  SCHEDULED: <2022-07-04 Mon>
-		- [[Weapon Balcksmith]]
+		- [[Weapon Blacksmith]]
 		  SCHEDULED: <2022-07-07 Thu>
 		  DEADLINE: <2022-07-10 Sun>
 		- [[Skeletal Abyss]]
