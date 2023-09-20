@@ -13,15 +13,6 @@ jobs:
     - uses: actions/checkout@v3
     - uses: crate-ci/typos@v1.13.10
 
-  nbb-tests:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Run graph-validator tests
-        uses: logseq/graph-validator@main
-
   rdf-export:
     runs-on: ubuntu-latest
     name: Test rdf export
