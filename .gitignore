@@ -1,2 +1,5 @@
-
 .DS_Store
+bak/
+pages-metadata.edn
+logseq/graphs-txid.edn
+logseq/.recycle/

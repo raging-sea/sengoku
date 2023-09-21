@@ -23,6 +23,6 @@
 		  SCHEDULED: <2022-06-30 Thu>
 		  DEADLINE: <2022-07-19 Tue>
 	- Season
-		- #Rashomon S5 [[Crimson Ninja Scrolls]]
-		  SCHEDULED: <2022-06-30 Thu>
-		  DEADLINE: <2022-10-30 Sun>
+		- #Rashomon S8 [[March On Kyoto]]
+		  DEADLINE: <2023-12-31 Sun>
+		  SCHEDULED: <2023-08-31 Thu>
