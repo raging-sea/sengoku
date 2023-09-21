@@ -1,4 +1,4 @@
-title:: ver.1.9.9700
+title:: Update Notes ver.1.9.9700
 
 - Patch: Ver.1.9.9700
   Available: 6:30AM UTC on [[Aug 31st, 2023]] , 2023
