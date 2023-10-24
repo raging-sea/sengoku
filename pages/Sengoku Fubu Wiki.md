@@ -1,7 +1,7 @@
 - #+BEGIN_QUOTE
   **This is the unofficial Wiki for mobile game Sengoku Fubu.**
   #+END_QUOTE
-- ![cover-200812.jpg](../assets/cover-200812_1656919621186_0.jpg){:height 316, :width 600}
+- ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 500, :width 1500}
 - **Community**
   background-color:: #264c9b
 	- [Discord Server](https://discord.gg/pqXNKw5vrz)
@@ -9,8 +9,9 @@
 - **Current Events** #kanban
   background-color:: #497d46
 	- query-table:: true
-	  query-sort-desc:: true
+	  query-sort-desc:: false
 	  query-properties:: [:block]
+	  query-sort-by:: block
 	  #+BEGIN_QUERY
 	  {:title [:b "This Week"]
 	          :query [

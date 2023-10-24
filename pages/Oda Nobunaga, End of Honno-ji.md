@@ -1,0 +1,2 @@
+- ![cover-200812.jpg](../assets/cover-200812_1656919621186_0.jpg){:height 316, :width 600}
+-
