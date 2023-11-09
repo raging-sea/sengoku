@@ -1,0 +1,3 @@
+- This event enables you to completely salvage any SP Exclusive Weapon into the materials required to craft a weapon of the same level (using an unknown memorial during crafting will result in a refund of the exclusive memorial for that weapon), Essential Ore will not be refunded.
+- Each time you obtain a new SP hero of current season, you can only perform one salvage of an SP Exclusive Weapon, which is valid for 7 days. If a new current SP hero is acquired during the existing salvage period, the salvage count will be added up and the countdown will reset.
+- The event is only applicable for the salvage of Exclusive Weapons for SP heroes.

@@ -1,0 +1,8 @@
+- 2 sets of Ukiyo-e will be selected to increase their drop rate each week. 1 Ukiyo-e is guaranteed in 25 draws.
+- Drawing can only be done by consuming [[Jamasakura]] or [[Koban]], with no restrictions on the number of times.
+- When obtaining Ukiyo-e, one will be randomly selected from the current Up Ukiyo-e that has not reached the maximum title limit.
+- If all the Ukiyo-e in the current UP pool have reached the maximum title limit, it will be impossible to draw from that Up pool.
+- Drop Rate
+	- Ukiyo-e Up ➜ 2%
+	- 4 Ukiyo-e Shards ➜ 66.8%
+	- 10 Ukiyo-e Shards ➜ 31.2%

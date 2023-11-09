@@ -1,7 +1,7 @@
 public:: true
 title:: Update Notes ver.1.9.9900
 language:: [[en]]
-category:: [[update]]
+category:: [[Update]]
 
 - #+BEGIN_PINNED
   Patch: Ver.1.9.9900

@@ -1,10 +1,12 @@
 - #+BEGIN_QUERY
-  {:title [:b "Current Returning Heroes"]
+  {:title [:b "Current Limited Heroine"]
    :query [:find (pull ?parent [*])
            :in $ ?start ?today
            :where
            [?b :block/properties ?prop]
-           [(get ?prop :returning) ?date]
+           [(get ?prop :edition) ?ed]
+           [(= #{"Heroine"} ?ed)]
+           [(get ?prop :launch-date) ?date]
            [?j :block/journal? true]
            [?j :block/original-name ?jn]
            [(contains? ?date ?jn)]
@@ -13,16 +15,16 @@
            [(> ?jd ?start)]
   		 [?b :block/parent ?parent]
          ]
-   :inputs [:25d-before :30d-after]
+   :inputs [:10d-before :30d-after]
    :view (fn [rows] [:table 
    [:thead 
     [:tr 
-     [:th "Limited Heroes"] 
-     [:th "Start Date"] ]] 
+     [:th "Heroine"] 
+     [:th "Launch Date"] ]] 
    [:tbody 
   (for [r rows] [:tr 
      [:td [:a {:href (str "#/page/" (get-in r [:block/name]))} (str (get-in r [:block/original-name]))]]
-     [:td (get-in r [:block/properties :returning])] ])
+     [:td (get-in r [:block/properties :launch-date])] ])
      ]]
   )
    :result-transform (fn [result]

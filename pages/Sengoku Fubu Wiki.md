@@ -37,5 +37,6 @@
 	  #+END_QUERY
 - **Update Notes**
   background-color:: yellow
+	- [[Update Notes ver.1.9.10000]]
 	- [[Update Notes ver.1.9.9900]]
 	- [[Update Notes ver.1.9.9800]]

@@ -1,7 +1,7 @@
 type:: [[Hero]]
 rarity:: [[SSR]]
 edition:: [[Unique Hero]]
-classic:: [[Irohahime]]
+classic:: [[Irohahime, Classic]] 
 returning:: [[]]
 up:: [[]]
 fukubukuro:: [[Jul 4th, 2022]]
