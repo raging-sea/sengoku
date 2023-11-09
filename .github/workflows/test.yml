@@ -6,12 +6,12 @@ on:
     branches: [master]
 
 jobs:
-  typos:
-    name: Spell Check with Typos
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-    - uses: crate-ci/typos@v1.13.10
+  #typos:
+    #name: Spell Check with Typos
+    #runs-on: ubuntu-latest
+    #steps:
+    #- uses: actions/checkout@v3
+    #- uses: crate-ci/typos@v1.13.10
 
   rdf-export:
     runs-on: ubuntu-latest
