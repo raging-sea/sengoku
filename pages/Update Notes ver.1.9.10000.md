@@ -8,64 +8,64 @@ category:: [[Update]]
   #+END_PINNED
 - **What's New**
 	- A Brand-New Classic Match Mini-Game is Here!
-	  collapsed:: true
 		- {{embed [[Skirmish Havoc]]}}
 	- [[Limited Time Heroine]]
-	  collapsed:: true
 		- {{embed [[Irohahime]]}}
 		- {{embed [[Masakage Hime]]}}
 	- [[Returning Heroes Limited Edition]]
-	  collapsed:: true
 		- {{embed [[Maeda Matsu, Christmas]]}}
 		- {{embed [[Maeda Toshiie, Christmas]]}}
 	- [[Renowned Hero Path]] for More Heroes
-	  collapsed:: true
 		- [[Mori Nagayoshi]]
 			- {{embed ((bd6a78e8-27bb-4ada-b468-efa04c28bf8e))}}
 		- [[Sakai Tadatsugu]]
 			- {{embed ((654c7276-8938-46de-989a-061625856b24))}}
 	- New [[Ukiyo-e]]
-	  collapsed:: true
 		- [[Sen no Rikyu]], [[Toyotomi Hideyoshi]]
+			- ![image.png](../assets/image_1699514515131_0.png){:height 316, :width 406}
 			- Base Stats: Increase [[Physical Defense]] and [[Stratagem Defense]]
 			- Combo: Decrease damage taken when you're affected by hindering effect
+			  collapsed:: true
 				- 6%
 				- 12%
 				- 18%
 				- 24%
 				- 30%
 		- [[Ishida Mitsunari]], [[Kato Kiyomasa]]
+			- ![image.png](../assets/image_1699514545988_0.png){:height 316, :width 406}
 			- Base Stats: Increase [[Physical Defense]] and [[Stratagem Defense]]
 			- Combo: Increase Damage Resist, double the number when affected by [[Sway]], [[Seal]], [[Silence]]
+			  collapsed:: true
 				- 3%
 				- 6%
 				- 9%
 				- 12%
 				- 15%
 		- [[Umibozu]], [[Mermaid]]
+			- ![image.png](../assets/image_1699514433601_0.png){:height 317, :width 408}
 			- Base Stats: Increase [[Physical Attack]]
 			- Combo: Increase Damage
+			  collapsed:: true
 				- 3%
 				- 6%
 				- 9%
 				- 12%
 				- 15%
 		- [[Aobozu]], [[Bunbuku Chagama]]
+			- ![image.png](../assets/image_1699514463984_0.png){:height 317, :width 408}
 			- Base Stats: Increase [[Physical Attack]]
 			- Combo: Deals more damage to enemies in the different column
+			  collapsed:: true
 				- 5%
 				- 10%
 				- 15%
 				- 20%
 				- 25%
 	- New Event [[Ukiyo-e Chance Up]]
-	  collapsed:: true
 		- {{embed [[Ukiyo-e Chance Up]]}}
 	- New Event [[SP Exclusive Weapon Salvage]]
-	  collapsed:: true
 		- {{embed [[SP Exclusive Weapon Salvage]]}}
 	- New [[Packs]]
-	  collapsed:: true
 		- Deluxe Exclusive Pack (Limited Edition)
 			- Deluxe Exclusive Weapon Pack (Limited Edition) x1
 			- Priceless Ore x10
@@ -77,14 +77,12 @@ category:: [[Update]]
 		- Renowned Hero Deluxe Pack (Weekly)
 			- Soul of Renowned Hero x150
 	- [[Pass of Defiance]] S18
-	  collapsed:: true
 		- New Cosmetics
 			- Lv.20 Lord Image 「Kuroda Yoshitaka」
 			- Lv.60 Castle Skin 「Matsue Castle」
 		- Season time
 			- From [[Nov 9th, 2023]] to [[Jan 7th, 2024]]
 	- **New Awakenable Exclusive Weapons for More Heroes**
-	  collapsed:: true
 		- [[Mori Nagayoshi]]
 			- {{embed ((153e2344-0fac-4dba-a0fb-6e17aebb8290))}}
 		- [[Sakai Tadatsugu]]

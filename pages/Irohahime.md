@@ -8,6 +8,7 @@ up::
 fukubukuro::
 
 - Portrait
+	- ![heroine-231109.jpg](../assets/heroine-231109_1699514595897_0.jpg)
 - Skill 2 Ougi
 	- Steadfast Blade
 	- Shields friendly Heroes in the rear,absorbing damage by 5% of your current troops',applies Guard_on friendly Heroes in the rear for 2 Rounds. Applies Desperate Fight on yourself for 2 Rounds.

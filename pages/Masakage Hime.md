@@ -8,6 +8,7 @@ up::
 fukubukuro::
 
 - Portrait
+	- ![heroine-231109.jpg](../assets/heroine-231109_1699514601567_0.jpg)
 - Skill 3 Ougi
 	- Saber Strike
 	- Deals 210% Physical Damage to random 4 enemies, applies Basic Dispel (2 mark on random 4 enemies. Shields yourself, absorbing damage by 120% of your Physical Attack, applies Protection on yourself for 1 Round.

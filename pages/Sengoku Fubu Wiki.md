@@ -1,7 +1,7 @@
 - #+BEGIN_QUOTE
   **This is the unofficial Wiki for mobile game Sengoku Fubu.**
   #+END_QUOTE
-- ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 500, :width 1500}
+- ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 294, :width 768}
 - **Community**
   background-color:: #264c9b
 	- [Discord Server](https://discord.gg/pqXNKw5vrz)

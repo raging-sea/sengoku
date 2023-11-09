@@ -8,14 +8,14 @@ up::
 fukubukuro::
 
 - Portrait
-	- ![limited hero (2).jpg](../assets/limited_hero_(2)_1657008973449_0.jpg){:height 611, :width 400}
+	- ![limited hero (2).jpg](../assets/limited_hero_(2)_1657008973449_0.jpg){:height 470, :width 537}
 - Skill 2 Ougi
 	- Rampant Spear
 	- Deals 180%Physical Damage to 2 random enemies. Applies Hearten on yourself
 - Awakening Skill
 	- Plum Blossom
 	- After Base Attack and Ougi Skill dealt damage, Deals 60% Physical Damage to all enemies. Applies Immobility on yourself. Applies Lightspeed on yourself for 1 Round.
-- Exclusive Weapon Awakening
+- [[Exclusive Weapon Awakening]]
   id:: 654c6425-ab6c-4022-b9c9-203ad56f1dca
 	- Plum Blossom+
 	- After Base Attack and Ougi Skill dealt damage, Deals 150% Physical Damage to all enemies. Applies Immobility on 2 friendly Heroes with the highest Physical Attack. Applies Lightspeed on yourself for 2 Rounds.

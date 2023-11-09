@@ -2,6 +2,7 @@ category:: [[Mini-Game]]
 game-mode:: [[Classic Match]]
 launch-date:: [[Nov 9th, 2023]]
 
+- ![level 1](../assets/image_1699514349008_0.png){:height 493, :width 742}
 - Skirmish Havoc is one of the mini-games that can be encountered in the Classic Match, featuring a total of 2 levels.
 - The mini-game will randomly start within 5 hours after the battle begins. If the battle ends too quickly, the mini-game may not have a chance to start. The goal of the game is to successfully reach the endpoint marked on the map or defeat all enemies.
 - Our pieces are distinguished by a blue color, while enemy pieces are red. Tiles accessible to our pieces are marked with a yellow glow.
@@ -14,6 +15,7 @@ launch-date:: [[Nov 9th, 2023]]
 - Troops
 	- Within the mini-game, players can encounter 4 different types of Troops: Infantry, Samurai, Cavalry, and Musketeer.
 	- Troop types have counter relationships that impact troop strength expenditure in battle. When at a disadvantage, troops consume twice their usual strength.
+	- ![image.png](../assets/image_1699513279096_0.png)
 	- [[draws/2023-11-08-19-23-43.excalidraw]]
 - Rewards
 	- Rewards are only granted for completing the mini-game; early failure means losing any chests collected along the way. Keep your troop strength above zero and don't take on unwinnable battles!
