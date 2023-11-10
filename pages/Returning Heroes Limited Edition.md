@@ -1,3 +1,5 @@
+category:: [[Recruitment]]
+
 - #+BEGIN_QUERY
   {:title [:b "Current Returning Heroes"]
    :query [:find (pull ?parent [*])
@@ -29,3 +31,10 @@
                        (sort-by (fn [h]
                                   (get h :block/name)) result))}
   #+END_QUERY
+- Schedule
+	- [[Maeda Matsu, Christmas 2021]], [[Maeda Toshiie, Christmas 2021]]
+	  DEADLINE: <2023-12-14 Thu>
+	  SCHEDULED: <2023-11-25 Sat>
+	- [[Maeda Matsu, Christmas 2021]], [[Maeda Toshiie, Christmas 2021]] 
+	  SCHEDULED: <2022-06-30 Thu>
+	  DEADLINE: <2022-07-19 Tue>

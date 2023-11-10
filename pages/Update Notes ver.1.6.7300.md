@@ -25,8 +25,8 @@ title:: Update Notes ver.1.6.7300
 - **Returning Limited Heroes**
 	- Event Time
 		- 6.30.22 - 7.9.22
-	- SSR [[Maeda Toshiie, Christmas]] 2021 Christmas Edition
-	- SSR [[Maeda Matsu, Christmas]] 2021 Christmas Edition
+	- SSR [[Maeda Toshiie, Christmas 2021]] 2021 Christmas Edition
+	- SSR [[Maeda Matsu, Christmas 2021]] 2021 Christmas Edition
 - **New Awakenable Exclusive Weapons for More Heroes**
 	- [[Dosan Hime]]
 	- [[Hojo Ujiyasu]]

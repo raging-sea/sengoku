@@ -40,3 +40,7 @@ query-sort-desc:: false
 - Each Hero in Hero pool will only appear once by opening the Hero Fukubukuro.
 - Hero will be transferred into awakening item of corresponding region if you draw a Hero you already owned.
 - Each kind of Hero Fukubukuro can be only purchased for 3 times.
+- Schedule
+	- Hero Fukubukuro
+	  SCHEDULED: <2022-07-04 Mon>
+	  DEADLINE: <2022-07-14 Thu>

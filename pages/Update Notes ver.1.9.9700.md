@@ -9,7 +9,7 @@ title:: Update Notes ver.1.9.9700
 		- Launch Time: [[Aug 31st, 2023]]
 		- Takeda Shingen reigned as the absolute ruler of this land, and even formidable figures like Uesugi and Hojo could only become puppets manipulated at  will by Takeda Shingen, all to appears this martial deity with a penchant  for warfare.
 		- Ability: Damage, Buffer
-	- [[Rashomon]] S8 — [[March  On Kyoto]]
+	- [[Rashomon S8 March On Kyoto]]
 		- March  On Kyoto is the 8th season of [[Rashomon]]. It starts on [[Aug 31st, 2023]] and ends on [[Dec 31st, 2023]].
 		- Same with previous seasons of [[Rashomon]], new [[SP Hero]], [[SP Gear]], [[Troop Gear]], and new gameplay [[March On Kyoto]] in [[Classic Match]] have been added.
 		- [[March On Kyoto]], New Gameplay in [[Classic Match]]

@@ -13,8 +13,8 @@ category:: [[Update]]
 		- {{embed [[Irohahime]]}}
 		- {{embed [[Masakage Hime]]}}
 	- [[Returning Heroes Limited Edition]]
-		- {{embed [[Maeda Matsu, Christmas]]}}
-		- {{embed [[Maeda Toshiie, Christmas]]}}
+		- {{embed [[Maeda Matsu, Christmas 2021]]}}
+		- {{embed [[Maeda Toshiie, Christmas 2021]]}}
 	- [[Renowned Hero Path]] for More Heroes
 		- [[Mori Nagayoshi]]
 			- {{embed ((bd6a78e8-27bb-4ada-b468-efa04c28bf8e))}}
@@ -25,7 +25,6 @@ category:: [[Update]]
 			- ![image.png](../assets/image_1699514515131_0.png){:height 316, :width 406}
 			- Base Stats: Increase [[Physical Defense]] and [[Stratagem Defense]]
 			- Combo: Decrease damage taken when you're affected by hindering effect
-			  collapsed:: true
 				- 6%
 				- 12%
 				- 18%
@@ -35,7 +34,6 @@ category:: [[Update]]
 			- ![image.png](../assets/image_1699514545988_0.png){:height 316, :width 406}
 			- Base Stats: Increase [[Physical Defense]] and [[Stratagem Defense]]
 			- Combo: Increase Damage Resist, double the number when affected by [[Sway]], [[Seal]], [[Silence]]
-			  collapsed:: true
 				- 3%
 				- 6%
 				- 9%
@@ -45,7 +43,6 @@ category:: [[Update]]
 			- ![image.png](../assets/image_1699514433601_0.png){:height 317, :width 408}
 			- Base Stats: Increase [[Physical Attack]]
 			- Combo: Increase Damage
-			  collapsed:: true
 				- 3%
 				- 6%
 				- 9%
@@ -55,7 +52,6 @@ category:: [[Update]]
 			- ![image.png](../assets/image_1699514463984_0.png){:height 317, :width 408}
 			- Base Stats: Increase [[Physical Attack]]
 			- Combo: Deals more damage to enemies in the different column
-			  collapsed:: true
 				- 5%
 				- 10%
 				- 15%
@@ -87,9 +83,9 @@ category:: [[Update]]
 			- {{embed ((153e2344-0fac-4dba-a0fb-6e17aebb8290))}}
 		- [[Sakai Tadatsugu]]
 			- {{embed ((32cf337d-f0ff-4230-891e-cbcd8ed2ed4e))}}
-		- [[Maeda Matsu, Christmas]]
+		- [[Maeda Matsu, Christmas 2021]]
 			- {{embed ((654c63bf-33ef-4947-9a18-fe69cf708acd))}}
-		- [[Maeda Toshiie, Christmas]]
+		- [[Maeda Toshiie, Christmas 2021]]
 			- {{embed ((654c6425-ab6c-4022-b9c9-203ad56f1dca))}}
 - **Quality of Life Changes**
 	- You can save or share battlelog comes from [[Rashomon]] now.
