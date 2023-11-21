@@ -1,5 +1,8 @@
 - Schedule
 	- Skeletal Abyss
+	  DEADLINE: <2023-11-30 Thu>
+	  SCHEDULED: <2023-11-27 Mon>
+	- Skeletal Abyss
 	  DEADLINE: <2023-11-16 Thu>
 	  SCHEDULED: <2023-11-13 Mon>
 	- Skeletal Abyss
