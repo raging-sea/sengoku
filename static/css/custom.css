@@ -1,41 +1,40 @@
-@font-face {
-    font-family: "Noto Sans SC";
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    src: local("Noto Sans SC");
+.text-lg {
+    font-size: 0.9rem;
+}
+
+/* Wrap the content inside code blocks in all themes 
+pre, code {
+    white-space : pre-wrap !important;
   }
-
-html,
-body {
-  font-size: 14px;
-  font-family: 'Noto Sans SC','Fira Sans', sans-serif;
-}
-
-.is-paragraph {
-	font-size: 14px
-}
-
-thead th {
-    font-size: 12px;
-}
-
-table th,
-table td {
-  font-size: 13px;
-}
-
+*/
 
 /*
   >>> BEGIN: #kanban view
+  inspired by https://github.com/cannibalox/logtools
 */
 /* layout */
 [data-refs-self*='kanban'] > .block-children-container > .block-children {
-    display: inline-flex;
+    display: flex;
     position: relative;
     margin: 0 10px;
     border: 0;
     overflow-x: auto;
+}
+[data-refs-self*='kanban-w250'] > .block-children-container > .block-children {
+    display: flex;
+    position: relative;
+    margin: 0 10px;
+    border: 0;
+    overflow-x: auto;
+    flex-wrap: wrap;
+}
+[data-refs-self*='kanban-w350'] > .block-children-container > .block-children {
+    display: flex;
+    position: relative;
+    margin: 0 10px;
+    border: 0;
+    overflow-x: auto;
+    flex-wrap: wrap;
 }
 /* column */
 [data-refs-self*='kanban']
@@ -45,13 +44,47 @@ table td {
     display: inline-block;
     padding: 0;
     width: inherit;
-    min-width: 400px;
+    min-width: 200px;
+    margin-left: 0px;
     margin-right: 10px;
     border-radius: 4px;
     background-color: var(--ls-tertiary-background-color);
     border: 1px solid var(--border);
     box-shadow: var(--shadow);
+    flex: auto;
 }
+
+div[data-refs-self*="kanban-w100"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	min-width: 100px;
+}
+div[data-refs-self*="kanban-w150"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	min-width: 150px;
+}
+div[data-refs-self*="kanban-w200"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	min-width: 200px;
+}
+div[data-refs-self*="kanban-w250"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	width: 250px;
+    max-width: 250px;
+}
+div[data-refs-self*="kanban-w300"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	min-width: 300px;
+}
+div[data-refs-self*="kanban-w350"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	width: 350px;
+    max-width: 350px;
+}
+div[data-refs-self*="kanban-w400"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	min-width: 400px;
+}
+div[data-refs-self*="kanban-fit"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	min-width: 400px;
+	width: max-content; 
+}
+div[data-refs-self*="kanban-w500"]>.block-children-container.flex>.block-children.w-full>div.ls-block {
+	min-width: 500px;
+}
+
 /* header */
 [data-refs-self*='kanban']
     > .block-children-container
@@ -97,6 +130,10 @@ table td {
 [data-refs-self*='kanban'] .todo-master-progress-bar {
     max-width: 90%;
 }
+
+[data-refs-self*='kanban-w250'] .todo-master-progress-bar {
+    max-width: 70%;
+}
 /* content */
 [data-refs-self*='kanban']
     > .block-children-container
@@ -137,3 +174,43 @@ table td {
 /*
   <<<< END: #kanban view
 */
+
+
+/* This is a simple way to put any blocks side by side in a column view, simply by adding the tags #parallel-2 to the 2 blocks, or #parallel-3 to the 3 blocks. Additionally, the tags #parallel-small and #parallel-big work to have 2 blocks side by side with one taking more space than the other, similar to having a sidebar.
+ *
+ * https://github.com/elgatopanzon/logseq-logtools-custom
+ */
+
+/* start: parallel blocks */
+div[data-refs-self*="\"parallel-2\""], div[data-refs-self*="\"parallel-3\""], div[data-refs-self*="\"parallel-4\""], div[data-refs-self*="\"parallel-big\""], div[data-refs-self*="\"parallel-small\""] {
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+div[data-refs-self*="\"parallel-2\""] > .flex.flex-row, div[data-refs-self*="\"parallel-3\""] > .flex.flex-row, div[data-refs-self*="\"parallel-4\""] > .flex.flex-row, div[data-refs-self*="\"parallel-big\""] > .flex.flex-row, div[data-refs-self*="\"parallel-small\""] > .flex.flex-row {
+    min-width: 100%;
+}
+
+div[data-refs-self*="\"parallel-2\""] {
+    min-width: 50%;
+    max-width: 50%;
+}
+div[data-refs-self*="\"parallel-3\""], div[data-refs-self*="\"parallel-small\""] {
+    min-width: 33.333%;
+    max-width: 33.333%;
+}
+div[data-refs-self*="\"parallel-4\""], div[data-refs-self*="\"parallel-small\""] {
+    min-width: 25%;
+    max-width: 25%;
+}
+div[data-refs-self*="\"parallel-big\""] {
+    min-width: 66%;
+    max-width: 66%;
+}
+.ls-block[data-refs-self*="parallel-2"] .block-content-wrapper .tag[data-ref*="parallel-2"], .ls-block[data-refs-self*="parallel-3"] .block-content-wrapper .tag[data-ref*="parallel-3"], .ls-block[data-refs-self*="parallel-4"] .block-content-wrapper .tag[data-ref*="parallel-4"], .ls-block[data-refs-self*="parallel-small"] .block-content-wrapper .tag[data-ref*="parallel-small"], .ls-block[data-refs-self*="parallel-big"] .block-content-wrapper .tag[data-ref*="parallel-big"] {
+    display: none;
+}
+/* end: parallel blocks */
