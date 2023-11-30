@@ -1,5 +1,5 @@
 - #+BEGIN_QUOTE
-  **This is the unofficial Wiki for mobile game Sengoku Fubu.**
+  **This is the unofficial Wiki for real-time strategy game Sengoku Fubu.**
   #+END_QUOTE
 - ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 294, :width 768}
 - **Community**
@@ -114,6 +114,7 @@
   #+END_QUERY
 - **Update Notes**
   background-color:: yellow
+	- [[Update Notes ver.1.9.10100]]
 	- [[Update Notes ver.1.9.10000]]
 	- [[Update Notes ver.1.9.9900]]
 	- [[Update Notes ver.1.9.9800]]

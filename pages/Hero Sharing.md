@@ -1,0 +1,15 @@
+### Overview
+- This feature allows players to assign one of their Heroes for shared use within the [[Clan]], specifically for Clan Wars.
+- ### Assignment and Availability
+- **Clan Members' Access:** Players have the ability to assign one Hero from their collection for sharing with other clan members.
+- **Usage Restriction:** The shared Heroes are exclusively available for use in [[Clan War]]. This includes wars fought on clan maps and those matched through the game's system.
+- ### Usage in Clan Wars
+- **One Hero Per Team:** Each offensive team in the Clan War is limited to using only one shared Hero.
+- **Diversity Requirement:** Among the three teams participating in a Clan War, each must select a different shared Hero. This rule ensures diversity and strategic planning in team composition.
+- ### Team Composition Rules
+- **Unique Heroes Only:** Teams are not permitted to deploy two identical Hero in battlefield when incorporating a shared Hero. This rule is crucial for maintaining balanced and fair gameplay.
+- ### Hero Attributes
+- **Fixed Attributes:** A shared Hero retains the attributes set by the player at the time of assignment. This means any subsequent changes made to the Hero's attributes by the original player will not affect the shared version used in clan wars.
+- **Consistency:** This feature ensures that the Hero's capabilities remain consistent throughout its use in the Clan War, providing reliability and predictability in strategy planning.
+- ### Field of Use
+- **Battlefield Limitation:** Players can only utilize Heroes shared by others who are participating on the same battlefield.
