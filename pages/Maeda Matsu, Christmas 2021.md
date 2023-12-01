@@ -8,7 +8,7 @@ up::
 fukubukuro::
 
 - Portrait
-	- ![limited hero (1).jpg](../assets/limited_hero_(1)_1657008958069_0.jpg){:height 588, :width 548}
+	- ![limited.jpg](../assets/limited_1701421174104_0.jpg){:height 488, :width 474}
 - Skill 1 Ougi
 	- First Snowfall
 	- Applies Unbroken Defense on yourself for 2 Rounds. Applies Fatigue on enemies in a column for 1 Round. Grants a 50% chance to apply Encourage on 1 random friendly Hero in current row for1 Round.

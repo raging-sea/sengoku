@@ -145,7 +145,7 @@
   #+END_QUERY
 - #+BEGIN_QUERY
   {
-   :title [:code "✔️ Fixed Issue"]
+   :title [:code "✔️ Fixed Issue in Last 7 Days"]
    :query [:find (pull ?b [*])
   		 :in $ ?today ?last-week
            :where
@@ -156,8 +156,8 @@
            )
            [(contains? #{"DONE"} ?marker)]
   		 [?b :block/content ?c]
-  		 [(re-pattern "(?<=--\\[)(\\d{4})-(\\d{2})-(\\d{2})") ?rx2]
-  		 [(re-find ?rx2 ?c) [_ ?dy ?dm ?dd]]
+  		 [(re-pattern "(?<=--\\[)(\\d{4})-(\\d{2})-(\\d{2})") ?rx]
+  		 [(re-find ?rx ?c) [_ ?dy ?dm ?dd]]
   		 [(str ?dy ?dm ?dd) ?yyyymmdd]
   		 [(* 1 ?yyyymmdd) ?done-day]
   		 [(<= ?done-day ?today)]

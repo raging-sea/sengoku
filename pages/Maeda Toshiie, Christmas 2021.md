@@ -8,7 +8,7 @@ up::
 fukubukuro::
 
 - Portrait
-	- ![limited hero (2).jpg](../assets/limited_hero_(2)_1657008973449_0.jpg){:height 470, :width 537}
+	- ![limited-1.jpg](../assets/limited-1_1701421216012_0.jpg){:height 499, :width 486}
 - Skill 2 Ougi
 	- Rampant Spear
 	- Deals 180%Physical Damage to 2 random enemies. Applies Hearten on yourself
