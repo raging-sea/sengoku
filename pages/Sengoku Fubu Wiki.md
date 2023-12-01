@@ -2,10 +2,13 @@
   **This is the unofficial Wiki for real-time strategy game Sengoku Fubu.**
   #+END_QUOTE
 - ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 294, :width 768}
-- **Community**
+- **Community** #parallel-2
   background-color:: blue
 	- [Discord Server](https://discord.gg/pqXNKw5vrz)
 	- [Facebook Page](https://www.facebook.com/sengokufubu.en/)
+- What's New #parallel-2
+  background-color:: yellow
+	- New system [[Backup Hero]] & [[Teaware]]
 - **Events**
   background-color:: green
 - query-sort-by:: block
@@ -14,7 +17,7 @@
   query-sort-desc:: false
   query-properties:: [:block]
   #+BEGIN_QUERY
-  {:title [:code "This Week"]
+  {:title [:code "📆 This Week"]
           :query
   			[:find (pull ?b [*]) (pull ?block [*]) (pull ?bj [*])
   			:keys btime bparent bjournal
@@ -61,7 +64,7 @@
       }
   #+END_QUERY
 - #+BEGIN_QUERY
-  {:title [:code "Upcoming"]
+  {:title [:code "▶️ Upcoming"]
           :query
   			[:find (pull ?b [*]) (pull ?block [*]) (pull ?bj [*]) (pull ?bjj [*])
   			:keys btime bparent bstart bend
@@ -118,3 +121,57 @@
 	- [[Update Notes ver.1.9.10000]]
 	- [[Update Notes ver.1.9.9900]]
 	- [[Update Notes ver.1.9.9800]]
+- #+BEGIN_QUERY
+  {
+   :title [:code "🚧 Known Issue"]
+   :query [:find (pull ?b [*])
+           :where
+           [?b :block/marker ?marker]
+           (not (not [?b :block/ref-pages ?p]
+           [?p :page/name ?page-name]
+           [(clojure.string/includes? ?page-name "known issue")])
+           )
+           [(contains? #{"TODO" "NOW" "LATER"} ?marker)]]
+          :result-transform 
+  			(fn [result]
+  				(sort-by 
+  					(fn [h] (get-in h [:block/deadline]))
+  					(sort-by
+  						(fn [h] (get-in h [:block/scheduled]))				
+  						result)))
+          :breadcrumb-show? false
+          :collapsed? false
+   }
+  #+END_QUERY
+- #+BEGIN_QUERY
+  {
+   :title [:code "✔️ Fixed Issue"]
+   :query [:find (pull ?b [*])
+  		 :in $ ?today ?last-week
+           :where
+           [?b :block/marker ?marker]
+           (not (not [?b :block/ref-pages ?p]
+           [?p :page/name ?page-name]
+           [(clojure.string/includes? ?page-name "known issue")])
+           )
+           [(contains? #{"DONE"} ?marker)]
+  		 [?b :block/content ?c]
+  		 [(re-pattern "(?<=--\\[)(\\d{4})-(\\d{2})-(\\d{2})") ?rx2]
+  		 [(re-find ?rx2 ?c) [_ ?dy ?dm ?dd]]
+  		 [(str ?dy ?dm ?dd) ?yyyymmdd]
+  		 [(* 1 ?yyyymmdd) ?done-day]
+  		 [(<= ?done-day ?today)]
+  		 [(> ?done-day ?last-week)]
+  		 ]
+  		:inputs [:today :-7d]
+          :result-transform 
+  			(fn [result]
+  				(sort-by 
+  					(fn [h] (get-in h [:block/deadline]))
+  					(sort-by
+  						(fn [h] (get-in h [:block/scheduled]))				
+  						result)))
+          :breadcrumb-show? false
+          :collapsed? false
+   }
+  #+END_QUERY
