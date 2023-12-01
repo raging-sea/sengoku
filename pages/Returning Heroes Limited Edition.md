@@ -32,6 +32,7 @@ category:: [[Recruitment]]
                                   (get h :block/name)) result))}
   #+END_QUERY
 - Schedule
+  collapsed:: true
 	- [[Maeda Matsu, Christmas 2021]], [[Maeda Toshiie, Christmas 2021]]
 	  DEADLINE: <2023-12-14 Thu>
 	  SCHEDULED: <2023-11-25 Sat>

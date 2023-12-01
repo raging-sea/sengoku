@@ -1,7 +1,10 @@
 - Schedule
-	- Darkness Falls
-	  DEADLINE: <2023-11-24 Fri>
-	  SCHEDULED: <2023-11-20 Mon>
+	- TODO Darkness Falls 
+	  SCHEDULED: <2023-12-04 Mon ++2w>
+	  DEADLINE: <2023-12-08 Fri ++2w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2023-12-01 Fri 15:26]
+	  :END:
 	- Darkness Falls
 	  DEADLINE: <2023-11-10 Fri>
 	  SCHEDULED: <2023-11-06 Mon>
