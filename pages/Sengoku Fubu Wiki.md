@@ -25,15 +25,17 @@
               :where
                   [?b :block/scheduled ?ds] 
   				[?b :block/deadline ?d]
-                  [(<= ?ds ?start)]
-  				[(>= ?d ?next)]
+  				[(* 1 ?ds) ?num-ds]
+  				[(* 1 ?d) ?num-d]
+                  [(<= ?num-ds ?start)]
+  				[(>= ?num-d ?next)]
   				[?b :block/parent ?p]
   				[?p :block/parent ?block]
   				[?bj :block/journal? true]
   				[?bj :block/journal-day ?jd]
-  				[(= ?d ?jd)]	
+  				[(= ?num-d ?jd)]	
               ]
-  		:inputs [:1d-before :today]
+  		:inputs [:today :today]
   		:view (fn [rows] 
   			[:table 
   				[:thead 
@@ -68,12 +70,13 @@
           :query
   			[:find (pull ?b [*]) (pull ?block [*]) (pull ?bj [*]) (pull ?bjj [*])
   			:keys btime bparent bstart bend
-              :in $ ?start ?next
+              :in $ ?start ?next ?max
               :where
                   [?b :block/scheduled ?ds] 
   				[?b :block/deadline ?d]
                   [(> ?ds ?start)]
   				[(>= ?d ?next)]
+  				[(<= ?ds ?max)]
   				[?b :block/parent ?p]
   				[?p :block/parent ?block]
   				[?bj :block/journal? true]
@@ -83,7 +86,7 @@
   				[?bjj :block/journal-day ?jdd]
   				[(= ?d ?jdd)]
               ]
-  		:inputs [:today :today]
+  		:inputs [:today :today :7d-after]
   		:view (fn [rows] 
   			[:table 
   				[:thead 

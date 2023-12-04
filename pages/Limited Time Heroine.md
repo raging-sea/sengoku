@@ -34,6 +34,10 @@ category:: [[Recruitment]]
                                   (get h :block/name)) result))}
   #+END_QUERY
 - Schedule
+  collapsed:: true
 	- [[Irohahime]], [[Masakage Hime]]
 	  DEADLINE: <2023-11-24 Fri>
 	  SCHEDULED: <2023-11-15 Wed>
+	- [[Shigehide Hime]], [[Shigetomo Hime]]
+	  DEADLINE: <2023-12-24 Sun>
+	  SCHEDULED: <2023-12-15 Fri>
