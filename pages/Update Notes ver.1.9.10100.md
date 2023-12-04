@@ -38,6 +38,10 @@ category:: [[Update]]
 		- War starting time has been changed to 4AM GMT from 0AM GMT.
 	- [[Majesty Area]] battle starts time: The provided battle start times are estimations; actual times depend on entry to the battlefield.
 	- [[Classic Match]]: Increase the action cap per round from 80 to 100, with a mandatory settlement of round buffs upon reaching this limit before proceeding to the next round.
+	- Way to obtain Ghost Amulets has been adjusted in [[Battle of Anegawa]]
+		- Daily First Entry rewards have been removed.
+		- First Defeat Reward: Upon defeating a player in Battle of Anegawa for the first time, players will receive a reward of 10 Ghost Amulets.
+		- First Conquest Reward: By conquering 2 scenic spots in the Battle of Anegawa map for the first time, players will receive 10 Ghost Amulets as a reward.
 	- Optimized Quick Update button display issue.
 	- Add to blocklist can choose to block all channel message from this player now.
 	- Optimized notes regarding Shadow Token.
