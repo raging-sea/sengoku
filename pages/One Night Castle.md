@@ -1,0 +1,39 @@
+- This is a team-based multiplayer mode where groups of three players join forces. You will enter battle events with pre-arranged team formations. The goal is to finish building Sunomata Castle within a single day, gathering construction materials and processing intermediates by day, and assembling the castle at night.
+- The game lasts 20 minutes, split equally between day and night phases. When time's up, points are awarded based on the final tier reached in building Sunomata Castle.
+- ### Background
+- The historical context is Kinoshita Tōkichirō (Toyotomi Hideyoshi) leading his forces upstream of the Kiso River to prepare lumber for a new fortress. They prefabricated parts of the fortress, then floated them downstream on rafts. Upon reaching Sunomata, Tōkichirō and his 2,000 strong construction crew swiftly assembled these pre-made elements, erecting the Sunomata Castle overnight on the frontier between Owari and Mino provinces—hence the legendary "Sunomata One Night Castle."
+- ### Tiles & Enemies
+- #### Tiles
+- **Sunomata Castle**
+- Upgradeable. Upgrades require designated materials, and at game's end, points are awarded based on the castle's final upgrade level.
+- **Starting Dock**
+- Ships automatically set sail for Sunomata Castle after the first minute of night, with subsequent launches every 2 minutes, totaling 4 shipments.
+- **Small Forest**
+- Offers logging for wood, with a chance of enemy encounters increasing with each logging action.
+- **Large Forest**
+- Similar to the small forest but with a higher risk of enemy attacks during logging.
+- **Lumber Camp**
+- A safe zone where logged wood is processed without triggering battles.
+- **Stone Camp**
+- Another safe zone where players can quarry for Clay resources without combat.
+- **Enemy-occupied Dock**
+- Players can attack this dock to acquire a small amount of Iron resources. It's tougher during the day but weaker at night. Ships lose 10% of their cargo if they pass this dock.
+- **Barracks**
+- High difficulty target for player attacks, yielding a generous amount of Iron resources upon defeat.
+- **Tunnel**
+- Allows player troops to instantly travel to the corresponding exit.
+- **Mountains**
+- Impassable terrain for troops.
+- **Wooden Bridge**
+- Passable fixed structure for troops.
+- #### Special Characters
+- **Bandit**
+- A rare character that may appear to attack nearby camps and troops, stealing materials if victorious. Defeated bandits yield their loot to the player.
+- **Arsonist**
+- Might randomly appear, lingering before setting the Lumber Camp ablaze. Players can intercept and drive them away before they act.
+- **Lumberman**
+- Another random character focused on logging in the nearest forest. Defeating them grants their carried lumber to the player.
+- **Elite**
+- Hostile forces that follow a set patrol path, targeting any player troops they encounter.
+- #### Special Events
+- Lumber Camp Fire: Halts lumber production; players must send troops to put out the fire and resume operations.

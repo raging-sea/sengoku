@@ -1,4 +1,7 @@
 - Schedule
-	- Scroll Decipherer
-	  DEADLINE: <2023-11-28 Tue>
-	  SCHEDULED: <2023-11-26 Sun>
+	- TODO Scroll Decipherer
+	  SCHEDULED: <2023-12-29 Fri ++5w>
+	  DEADLINE: <2023-12-31 Sun ++5w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2023-12-21 Thu 14:04]
+	  :END:

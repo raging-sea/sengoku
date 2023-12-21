@@ -120,6 +120,7 @@
   #+END_QUERY
 - **Update Notes**
   background-color:: yellow
+	- [[Update Notes ver.1.9.10200]]
 	- [[Update Notes ver.1.9.10100]]
 	- [[Update Notes ver.1.9.10000]]
 	- [[Update Notes ver.1.9.9900]]

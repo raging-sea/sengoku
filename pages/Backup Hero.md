@@ -4,17 +4,17 @@ category:: [[Hero Team]]
 - In Sengoku Fubu, players have the option to form a Hero Team for a single Hero by equipping Backup Heroes. A Backup Hero is essentially any other hero owned by the player. Any hero can be assigned as a backup for another, who is referred to as the Main Hero. Once a hero is designated as a backup, they don't participate directly in battles but instead contribute by enhancing the stats and activate combos for all allied Heroes on the battlefield.
 - ### Deployment of Backup Heroes
 - **Limitation**: The Main Hero must be a non-Staff and non-Supporter Hero with a rarity of SSR or above.
-	- NOW #[[Known Issue]] No notes in game to clarify the Hero with rarity SR and below can't equip Backup Hero.
+	- DONE #[[Known Issue]] No notes in game to clarify the Hero with rarity SR and below can't equip Backup Hero.
 	  :LOGBOOK:
-	  CLOCK: [2023-11-30 Thu 14:30:00]
+	  CLOCK: [2023-11-30 Thu 14:30:00]--[2023-12-21 Thu 13:00:32] =>  502:30:32
 	  :END:
 	- DONE #[[Known Issue]] The option to equip a Backup Hero for an SR Hero or below still exists in the interface; it hasn't been taken away.
 	  :LOGBOOK:
 	  CLOCK: [2023-11-30 Thu 14:30:00]--[2023-12-01 Fri 16:50:00] =>  26:20:00
 	  :END:
-	- NOW #[[Known Issue]] Currently a Hero can be added as Staff and Backup Hero at the same time. It will be fixed in future update.
+	- DONE #[[Known Issue]] Currently a Hero can be added as Staff and Backup Hero at the same time. It will be fixed in future update.
 	  :LOGBOOK:
-	  CLOCK: [2023-11-30 Thu 14:30:00]
+	  CLOCK: [2023-11-30 Thu 14:30:00]--[2023-12-21 Thu 13:00:30] =>  502:30:30
 	  :END:
 - **Capacity**: Each Main hero can be linked with up to three Backup Heroes.
 - **Exclusivity**: A Hero can only serve as a Backup Hero for one Main Hero. A Hero can't be Backup Hero and Supporter at the same time. Only Hero without Supporter can be Backup Hero.
