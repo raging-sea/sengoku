@@ -1,7 +1,9 @@
 category:: [[Weekend Event]]
 
 - Schedule
-  collapsed:: true
-	- TODO Battle Royale 
-	  DEADLINE: <2023-12-10 Sun ++6w>
-	  SCHEDULED: <2023-12-09 Sat ++6w>
+	- TODO Battle Royale
+	  SCHEDULED: <2024-01-12 Fri ++5w>
+	  DEADLINE: <2024-01-14 Sun ++5w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2024-01-02 Tue 15:00]
+	  :END:
