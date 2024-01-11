@@ -1,0 +1,1 @@
+- ![pinnaclehero.jpg](../assets/pinnaclehero_1704941723801_0.jpg)

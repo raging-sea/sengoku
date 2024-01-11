@@ -8,6 +8,7 @@
 	- [Facebook Page](https://www.facebook.com/sengokufubu.en/)
 - What's New #parallel-2
   background-color:: yellow
+	- Rashomon S9
 	- New system [[Backup Hero]] & [[Teaware]]
 - **Events**
   background-color:: green
@@ -120,6 +121,7 @@
   #+END_QUERY
 - **Update Notes**
   background-color:: yellow
+	- [[Update Notes ver.1.9.10300]]
 	- [[Update Notes ver.1.9.10200]]
 	- [[Update Notes ver.1.9.10100]]
 	- [[Update Notes ver.1.9.10000]]

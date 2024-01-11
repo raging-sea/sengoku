@@ -3,7 +3,7 @@ category:: [[Recruitment]]
 - #+BEGIN_QUERY
   {:title [:b "Current Returning Heroes"]
    :query [:find (pull ?parent [*])
-           :in $ ?start ?today
+           :in $ ?start ?end
            :where
            [?b :block/properties ?prop]
            [(get ?prop :returning) ?date]
@@ -11,8 +11,8 @@ category:: [[Recruitment]]
            [?j :block/original-name ?jn]
            [(contains? ?date ?jn)]
            [?j :block/journal-day ?jd]
-           [(< ?jd ?today)]
-           [(> ?jd ?start)]
+           [(<= ?jd ?end)]
+           [(>= ?jd ?start)]
   		 [?b :block/parent ?parent]
          ]
    :inputs [:25d-before :30d-after]
@@ -33,6 +33,9 @@ category:: [[Recruitment]]
   #+END_QUERY
 - Schedule
   collapsed:: true
+	- [[Minamoto Yoshitsune, Gojo Bridge]], [[Saito Musashibo Benkei, Gojo Bridge]]
+	  DEADLINE: <2024-02-03 Sat>
+	  SCHEDULED: <2024-01-15 Mon>
 	- [[Maeda Matsu, Christmas 2021]], [[Maeda Toshiie, Christmas 2021]]
 	  DEADLINE: <2023-12-14 Thu>
 	  SCHEDULED: <2023-11-25 Sat>

@@ -1,0 +1,5 @@
+- New Cosmetics
+	- Lv.20 Lord Image 「Satake Yoshishige」
+	- Lv.60 Castle Skin 「Kofu Castle」
+- Season time
+	- From [[Jan 11th, 2024]] to [[Mar 17th, 2024]]
