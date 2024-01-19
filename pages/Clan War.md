@@ -1,6 +1,6 @@
 category:: [[War]]
 
 - Schedule
-	- \#32 Clan War
-	  DEADLINE: <2023-12-02 Sat>
-	  SCHEDULED: <2023-11-27 Mon>
+	- TODO Clan War 
+	  DEADLINE: <2024-01-26 Fri ++4w>
+	  SCHEDULED: <2024-01-21 Sun ++4w>
