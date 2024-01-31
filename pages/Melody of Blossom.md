@@ -1,0 +1,3 @@
+- During the event, topping up in-game gives you the chance to draw cards.
+- The total score of your drawn cards corresponds to different prize pool.
+- After drawing, you'll receive a random gift from the prize pool that matches your score.

@@ -1,6 +1,9 @@
 category:: [[Hero Boost]]
 
 - Schedule
-	- TODO Hero EXP Boost 
-	  DEADLINE: <2023-12-10 Sun .+1m>
-	  SCHEDULED: <2023-12-04 Mon .+1m>
+	- TODO Hero EXP Boost
+	  SCHEDULED: <2024-02-05 Mon .+1m>
+	  DEADLINE: <2024-02-11 Sun .+1m>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2024-02-01 Thu 00:16]
+	  :END:
