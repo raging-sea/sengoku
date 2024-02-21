@@ -7,6 +7,7 @@ title:: Update Notes ver.1.9.10500
 - ![240201upd.jpg](../assets/240201upd_1706716990917_0.jpg){:height 478, :width 837}
 - **What's New**
 	- Valentine's Day [[Bittersweet Festival]]
+	  collapsed:: true
 		- {{embed [[Bittersweet Festival]]}}
 	- New [[Renowned Hero]]
 		- {{embed [[Uesugi Kenshin, Lifetime Enemy]]}}
