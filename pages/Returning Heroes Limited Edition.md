@@ -33,6 +33,9 @@ category:: [[Recruitment]]
   #+END_QUERY
 - Schedule
   collapsed:: true
+	- [[Hojo Ujiyasu, Kanto Wars]], [[Uesugi Kenshin, Kanto Wars]], [[Takeda Shingen, Kanto Wars]]
+	  DEADLINE: <2024-03-23 Sat>
+	  SCHEDULED: <2024-03-04 Mon>
 	- [[Minamoto Yoshitsune, Gojo Bridge]], [[Saito Musashibo Benkei, Gojo Bridge]]
 	  DEADLINE: <2024-02-03 Sat>
 	  SCHEDULED: <2024-01-15 Mon>

@@ -121,13 +121,10 @@
   #+END_QUERY
 - **Update Notes**
   background-color:: yellow
-	- 🔥 *NEW* [[Update Notes ver.1.9.10500]]
+	- 🔥 *NEW* [[Update Notes ver.1.10.10600]]
+	- [[Update Notes ver.1.9.10500]]
 	- [[Update Notes ver.1.9.10300]]
-	- [[Update Notes ver.1.9.10200]]
-	- [[Update Notes ver.1.9.10100]]
-	- [[Update Notes ver.1.9.10000]]
-	- [[Update Notes ver.1.9.9900]]
-	- [[Update Notes ver.1.9.9800]]
+	- *➜ Find all [[Update Notes]]*
 - #+BEGIN_QUERY
   {
    :title [:code "🚧 Known Issue"]

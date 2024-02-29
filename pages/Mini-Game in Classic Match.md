@@ -1,2 +1,3 @@
 - During the Classic Game Mode, mini-games will appear randomly once the battle begins. Players who successfully complete these mini-games will be rewarded with battle supplies or character resources.
 - [[Skirmish Havoc]]
+- [[Edo Echoes]]

@@ -1,4 +1,6 @@
 title:: Update Notes ver.1.9.10500
+language:: [[en]]
+category:: [[Update]]
 
 - #+BEGIN_PINNED
   Patch: Ver.1.9.10500
