@@ -1,5 +1,5 @@
 - #+BEGIN_QUOTE
-  **This is the unofficial Wiki for real-time strategy game Sengoku Fubu.**
+  **Wiki for real-time strategy game Sengoku Fubu.**
   #+END_QUOTE
 - ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 294, :width 768}
 - **Community** #parallel-2
