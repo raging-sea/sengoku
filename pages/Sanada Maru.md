@@ -2,5 +2,8 @@ category:: [[Weekend Event]]
 
 - Schedule
 	- TODO Sanada Maru
-	  DEADLINE: <2024-02-03 Sat ++8w>
-	  SCHEDULED: <2024-02-02 Fri ++8w>
+	  SCHEDULED: <2024-03-15 Fri ++6w>
+	  DEADLINE: <2024-03-16 Sat ++6w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2024-03-13 Wed 15:33]
+	  :END:
