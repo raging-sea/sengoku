@@ -121,9 +121,9 @@
   #+END_QUERY
 - **Update Notes**
   background-color:: yellow
-	- 🔥 *NEW* [[Update Notes ver.1.10.10600]]
+	- 🔥 *NEW* [[Update Notes ver.1.10.10700]]
+	- [[Update Notes ver.1.10.10600]]
 	- [[Update Notes ver.1.9.10500]]
-	- [[Update Notes ver.1.9.10300]]
 	- *➜ Find all [[Update Notes]]*
 - #+BEGIN_QUERY
   {

@@ -10,7 +10,13 @@ category:: [[Update]]
 - Rashomon S9 is Coming!
 - {{embed [[Rashomon S9 The Elite Four of Takeda]]}}
 - New Pinnacle Hero {{embed [[Sanada Yukimura, Six Panths Divine Jizo]] }}
-- New Season for Pass of Defiance {{embed [[Pass of Defiance S19]]}}
+- [[Pass of Defiance]] S19
+	- New Cosmetics
+		- Lv.20 Lord Image 「Satake Yoshishige」
+		- Lv.60 Castle Skin 「Kofu Castle」
+	- Season time
+		- From [[Jan 11th, 2024]] to [[Mar 17th, 2024]]
+- {{embed [[Pass of Defiance S19]]}}
 - {{embed [[Returning Heroes Limited Edition]]}}
 - ![240111_102913.png](../assets/240111_102913_1704942189720_0.png){:height 475, :width 737}
 - New [[Ukiyo-e]]

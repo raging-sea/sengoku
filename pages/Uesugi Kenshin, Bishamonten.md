@@ -3,9 +3,6 @@ launch-date::
 rarity:: [[SSR]]
 edition:: [[Pinnacle Hero]]
 classic:: [[Uesugi Kenshin]]
-returning:: 
-up:: 
-fukubukuro::
 
 - Portrait
 	-

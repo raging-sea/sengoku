@@ -1,9 +1,8 @@
 category:: [[Season]]
 
 - Schedule
-  collapsed:: true
 	- S9
-	  DEADLINE: <2024-03-12 Tue>
+	  DEADLINE: <2024-05-12 Sun>
 	  SCHEDULED: <2024-01-11 Thu>
 - The Elite Four of Takeda is the 9th season of [[Rashomon]]. It starts on [[Jan 11th, 2024]] and ends on [[May 12th, 2024]].
 - Same with previous seasons of [[Rashomon]], new [[SP Hero]], [[SP Gear]], [[Troop Gear]], and new gameplay [[Alliance of Zentoku Temple]] in [[Classic Match]] have been added.

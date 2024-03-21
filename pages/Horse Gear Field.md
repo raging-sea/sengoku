@@ -1,4 +1,7 @@
 - Schedule
 	- TODO Horse Gear Field
-	  DEADLINE: <2024-03-18 Mon ++3w>
-	  SCHEDULED: <2024-03-15 Fri ++3w>
+	  SCHEDULED: <2024-03-29 Fri ++2w>
+	  DEADLINE: <2024-04-01 Mon ++2w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2024-03-21 Thu 14:26]
+	  :END:
