@@ -1,0 +1,18 @@
+- **7-Day Gifts**
+- Log in for 7 days during the event period to earn Free SSR Hero Pack
+- ![7day gifts.jpg](../assets/7day_gifts_1713507645590_0.jpg){:height 323, :width 523}
+- **Spring Limited Edition Hero Recruitment**
+- SSR [[Kaihime]] & SSR [[Chousokabe Motochika]]
+- ![limited recruit.jpg](../assets/limited_recruit_1713507666622_0.jpg){:height 291, :width 513}
+- **Spring Spin**
+- Draw rewards from the splendid wheel
+- **Greenway Adventure**
+- Participate in games and complete quests to enlighten the way of spring
+- **Melody of Blossom**
+- Recharge Koban to earn drawing chances and obtain awesome rewards
+- **Spring Pack**
+- Purchase all 3 packs to receive the limited Castle Battle Effect
+- ![spring pack.jpg](../assets/spring_pack_1713507682261_0.jpg){:height 248, :width 488}
+- **Duo’s Battlefront**
+- Brand new PVE game mode
+- ![240418_124419.png](../assets/240418_124419_1713507714703_0.png){:height 305, :width 527}
