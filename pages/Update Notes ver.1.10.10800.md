@@ -1,4 +1,6 @@
 title:: Update Notes ver.1.10.10800
+language:: [[en]]
+category:: [[Update]]
 
 - #+BEGIN_PINNED
   Patch: Ver.1.10.10800

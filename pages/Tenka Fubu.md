@@ -2,5 +2,8 @@ category:: [[War]]
 
 - Schedule
 	- TODO Tenka Fubu 
-	  DEADLINE: <2024-01-20 Sat ++4w>
-	  SCHEDULED: <2024-01-19 Fri ++4w>
+	  SCHEDULED: <2024-05-10 Fri ++4w>
+	  DEADLINE: <2024-05-11 Sat ++4w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2024-05-07 Tue 14:17]
+	  :END:
