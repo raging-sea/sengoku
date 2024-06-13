@@ -1,3 +1,0 @@
-- [[nopub Schedule]]
-- [[nopub Archives]]
-- {{renderer :days, [[sengoku fubu wiki]]}}
