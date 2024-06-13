@@ -1,7 +1,7 @@
 - Schedule
 	- TODO Walking Miko 
-	  SCHEDULED: <2024-06-10 Mon ++2w>
-	  DEADLINE: <2024-06-14 Fri ++2w>
+	  SCHEDULED: <2024-03-18 Mon ++2w>
+	  DEADLINE: <2024-03-22 Fri ++2w>
 	  :LOGBOOK:
 	  * State "DONE" from "TODO" [2023-11-21 Tue 15:14]
 	  * State "DONE" from "TODO" [2023-12-04 Mon 16:01]
@@ -12,10 +12,6 @@
 	  * State "DONE" from "TODO" [2024-02-21 Wed 10:53]
 	  * State "DONE" from "TODO" [2024-02-29 Thu 12:26]
 	  * State "DONE" from "TODO" [2024-03-13 Wed 15:32]
-	  * State "DONE" from "TODO" [2024-04-01 Mon 14:17]
-	  * State "DONE" from "TODO" [2024-04-19 Fri 18:17]
-	  * State "DONE" from "TODO" [2024-05-07 Tue 14:19]
-	  * State "DONE" from "TODO" [2024-06-13 Thu 13:26]
 	  :END:
 	- Walking Miko
 	  SCHEDULED: <2022-07-11 Mon>

@@ -1,0 +1,9 @@
+.DS_Store
+bak/
+pages-metadata.edn
+logseq/graphs-txid.edn
+logseq/.recycle/
+*nopub*
+2023_*.md
+2024_*.md
+pages/contents.md
