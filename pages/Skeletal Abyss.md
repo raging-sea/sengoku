@@ -1,7 +1,7 @@
 - Schedule
 	- TODO Skeletal Abyss
-	  SCHEDULED: <2024-06-10 Mon ++2w>
-	  DEADLINE: <2024-06-13 Thu ++2w>
+	  SCHEDULED: <2024-06-24 Mon ++2w>
+	  DEADLINE: <2024-06-27 Thu ++2w>
 	  :LOGBOOK:
 	  * State "DONE" from "TODO" [2023-12-04 Mon 16:01]
 	  * State "DONE" from "TODO" [2023-12-21 Thu 14:02]
@@ -15,6 +15,7 @@
 	  * State "DONE" from "TODO" [2024-04-01 Mon 14:17]
 	  * State "DONE" from "TODO" [2024-05-07 Tue 14:18]
 	  * State "DONE" from "TODO" [2024-06-13 Thu 13:25]
+	  * State "DONE" from "TODO" [2024-06-26 Wed 16:22]
 	  :END:
 	- Skeletal Abyss
 	  DEADLINE: <2023-11-16 Thu>

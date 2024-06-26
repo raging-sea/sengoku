@@ -7,7 +7,7 @@ category:: [[Update]]
   Patch: Ver.1.9.9900
   Available: 6:30AM UTC on [[Oct 19th, 2023]] 
   #+END_PINNED
-- ![pinnacle_oda-nobunaga.jpg](../assets/pinnacle_oda-nobunaga_1697642193691_0.jpg){:height 496, :width 733}
+- ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 294, :width 768}
 - **What's New**
 	- **New Pinnacle Hero [[Oda Nobunaga, Tenka Fubu]]**
 		- Release Date: [[Oct 19th, 2023]]

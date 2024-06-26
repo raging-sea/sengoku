@@ -1,7 +1,7 @@
 - #+BEGIN_QUOTE
   **Wiki for real-time strategy game Sengoku Fubu.**
   #+END_QUOTE
-- ![5 anniversary.jpg](../assets/5_anniversary_1698120289884_0.jpg){:height 294, :width 768}
+- ![collabannounce.png](../assets/collabannounce_1719396953296_0.png){:height 437, :width 769}
 - **Community** #parallel-2
   background-color:: blue
 	- [Discord Server](https://discord.gg/pqXNKw5vrz)
@@ -121,10 +121,10 @@
   #+END_QUERY
 - **Update Notes**
   background-color:: yellow
-	- 🔥 *NEW* [[Update Notes ver.1.10.11000]]
+	- 🔥 *NEW* [[Update Notes ver.1.10.12000]]
+	- [[Update Notes ver.1.10.11000]]
+	- [[Update Notes ver.1.10.10900]]
 	- [[Update Notes ver.1.10.10800]]
-	- [[Update Notes ver.1.10.10700]]
-	- [[Update Notes ver.1.9.10600]]
 	- *➜ Find all [[Update Notes]]*
 - #+BEGIN_QUERY
   {

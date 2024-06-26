@@ -1,0 +1,1 @@
+- ![pinnacle_oda-nobunaga.jpg](../assets/pinnacle_oda-nobunaga_1697642193691_0.jpg){:height 496, :width 733}
