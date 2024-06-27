@@ -1,9 +1,9 @@
-title:: Update Notes ver.1.10.12000
+title:: Update Notes ver.1.10.11100
 language:: [[en]]
 category:: [[Update]]
 
 - #+BEGIN_QUOTE
-  Patch: Ver.1.10.12000
+  Patch: Ver.1.10.11100
   Available: 6:30AM UTC on [[Jun 27th, 2024]] 
   #+END_QUOTE
 - ![upd.jpg](../assets/upd_1719396445732_0.jpg){:height 489, :width 715}
@@ -74,7 +74,7 @@ category:: [[Update]]
 	- Added a one-click collection feature for Exploit Quest rewards. Players with a Advanced Exploit Token can upgrade to a Premium Exploit Token, receiving the same total rewards as direct purchase.
 	- The Pinnacle Arrival event now includes Pinnacle Hero Oda Nobunaga.
 	- Optimized the Backpack interface.
-	- Added an explanation to the Weapon Blacksmith Furnace: Recafting an Exclusive Weapon returns consumed Priceless Ore, but Essential Ore is not returned.
+	- Added an explanation to the Weapon Blacksmith Furnace: Recrafting an Exclusive Weapon returns consumed Priceless Ore, but Essential Ore is not returned.
 - New [[Awakenable Exclusive Weapons]]
 	- Oda Nobunaga: Mara
 	- Takenaka Hanbei: Miraculous Deed
